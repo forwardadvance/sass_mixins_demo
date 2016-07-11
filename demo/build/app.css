@@ -1,0 +1,19 @@
+.cheese_widget p {
+  color: topaz; }
+
+.cheese_widget span {
+  color: maroon; }
+
+body {
+  color: #f00;
+  font-size: 200%; }
+
+.button, input[type='submit'] {
+  background: #f00;
+  padding: 10px; }
+
+input[type='submit'] {
+  color: green;
+  background: green; }
+
+/*# sourceMappingURL=app.css.map*/
